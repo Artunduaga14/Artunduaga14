@@ -29,6 +29,8 @@ soy bachiller técnico en software, realice un técnico en software en el Sena  
 
 - Buscar oportunidades laborales en empresas líderes de la industria: Mi objetivo es trabajar en grandes empresas reconocidas, como Google, Apple (iPhone), y Xiaomi. Me esforzaré por ser un candidato altamente calificado y valioso para estas organizaciones mediante el desarrollo constante de mis habilidades y la contribución significativa en proyectos relevantes.
 
+# 📫 Cómo contactarme
+- Correo electronico: artunduagajuan121@gmail.com
 <!--
 **Artunduaga14/Artunduaga14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
